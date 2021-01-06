@@ -19,7 +19,7 @@ CRUD de paciente
 
 # Producto a evaluar
 ## Objetivo
-El postulante deberá implementar un CRUD de paciente simple en framework CodeIgniter, utilizando las herramientas que disponga y desee
+El postulante deberá implementar un CRUD de paciente simple en framework CodeIgniter o Laravel, utilizando las herramientas que disponga y desee
 
 ## Base de datos
 ```
@@ -39,7 +39,8 @@ ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 # Requerimientos previos
 ## Framework
-CodeIgniter
+- CodeIgniter
+- Laravel
 
 ## Otros
 - Apache / Nginx
@@ -48,4 +49,4 @@ CodeIgniter
 - GIT
 
 # Consideraciónes
-El proyecto se deberá trabajar localmente para luego ser subido a github
+El proyecto se deberá trabajar localmente para luego ser subido a github y disponibilizarlo en un repositorio propio
